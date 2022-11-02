@@ -3,17 +3,22 @@
 Challenge untuk UTS Kerjakan salah satu saja 100 
 
 1. Tambahkan fitur untuk validasi input di tambah task.
+![Screenshot_2022-11-02-16-46-02-68](https://user-images.githubusercontent.com/88419912/199459597-f9034917-deb7-422c-a4fc-7460036568da.jpg)
+
 2. Tambahkan fitur untuk disable button tambah task jika validasi input masih error.
+![WhatsApp Image 2022-11-02 at 16 59 59](https://user-images.githubusercontent.com/88419912/199460885-831c57ac-5a36-4227-a658-f71b0c6e1611.jpeg)
+
 3. Tambahkan fitur swipe left delete task
+![Screenshot_2022-11-02-16-51-07-50](https://user-images.githubusercontent.com/88419912/199460087-4d0ed68a-293e-463d-a80e-de3f0c6bc8ea.jpg)
+
 4. Tambahkan fitur swipe right go to edit task page
+![Screenshot_2022-11-02-16-51-29-84](https://user-images.githubusercontent.com/88419912/199460121-5d832b2e-f9fa-45a6-8858-8b5b5ee74788.jpg)
+
 5. Tambahkan fitur edit task.
+![Screenshot_2022-11-02-16-51-47-72](https://user-images.githubusercontent.com/88419912/199460152-3e103839-d1b5-4fe3-830a-785cbf81e965.jpg)
+
 6. Tambahkan fitur validasi input di edit task.
+![Screenshot_2022-11-02-16-52-02-23](https://user-images.githubusercontent.com/88419912/199460188-3b5a5a2c-05bb-4e42-879c-cebc14ebb5d4.jpg)
+
 7. Tambahkan fitur disable button edit task jika validasi input masih error.
-Jawab:
-![Screenshot_2022-11-02-16-04-06-15](https://user-images.githubusercontent.com/88419912/199452322-b94844f0-ecf8-4207-8d17-8b42cdf72c69.jpg)
-![Screenshot_2022-11-02-16-04-19-78](https://user-images.githubusercontent.com/88419912/199452352-9d35c824-6620-44f4-8526-e0eaa6f5871d.jpg)
-![Screenshot_2022-11-02-16-04-24-20](https://user-images.githubusercontent.com/88419912/199452382-b08af0ff-854d-44ab-8f0c-ca05033cd27f.jpg)
-![Screenshot_2022-11-02-16-04-33-78](https://user-images.githubusercontent.com/88419912/199452397-0d71ac87-e16a-4bdb-8fa5-ef69d534150b.jpg)
-![Screenshot_2022-11-02-16-04-45-94](https://user-images.githubusercontent.com/88419912/199452416-545c8514-223d-4f32-bc66-c5f34f68f24a.jpg)
-![Screenshot_2022-11-02-16-05-00-70](https://user-images.githubusercontent.com/88419912/199452426-4b76d486-c75a-46fe-9310-3d1367077e47.jpg)
-![Screenshot_2022-11-02-16-05-06-72](https://user-images.githubusercontent.com/88419912/199452595-f6998427-60b6-4aa3-a595-fa8fe4b78760.jpg)
+![Screenshot_2022-11-02-16-52-02-23](https://user-images.githubusercontent.com/88419912/199460212-56dc398d-826d-4b8d-b3d8-7cb87d9ef998.jpg)
