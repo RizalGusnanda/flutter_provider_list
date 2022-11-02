@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
 import 'package:provider_listview/service/tasklist.dart';
+import 'package:provider_listview/page/updateTask.dart';
 
 import 'page/addtask.dart';
 import 'page/listpage.dart';
@@ -27,6 +28,7 @@ class MyApp extends StatelessWidget {
       routes: {
         "/": (context) => const MyListPage(),
         "/addTask": (context) => AddTaskPage(),
+        "/updatetask": (context) => const EditTaskPage(),
       },
       initialRoute: "/",
       title: 'Flutter Demo',
